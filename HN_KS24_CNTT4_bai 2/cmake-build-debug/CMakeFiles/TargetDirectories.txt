@@ -1,0 +1,3 @@
+F:/HN_KS24_CNTT4_bai 2/cmake-build-debug/CMakeFiles/HN_KS24_CNTT4_bai_2.dir
+F:/HN_KS24_CNTT4_bai 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/HN_KS24_CNTT4_bai 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
